@@ -1,0 +1,11 @@
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.AssemblyReference.cache
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Form1.resources
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.GenerateResource.cache
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.exe
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.pdb
+C:\Users\salma\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Kayit.resources
